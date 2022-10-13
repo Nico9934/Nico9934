@@ -1,0 +1,8 @@
+- 👋 Hi, I’m @Nico9934
+- 👀 I’m interested in music & programming.
+- 🌱 I’m currently learning React, JS, CSS, SASS, Tailwind & more Skills.
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me in:
+- Linkedin: https://www.linkedin.com/in/nicolas-rolon/
+- Mail: nico9934@gmail.com
+- PortFolio: In process
