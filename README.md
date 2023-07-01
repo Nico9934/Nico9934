@@ -44,19 +44,12 @@ Quiero seguir aprendiendo y perfeccionandome.💎
 - No me quedo solo con lo que me sale, sigo buscando nuevos desafíos.
 - Tengo buena comunicación y me adapto a distintos grupos de trabajo. 
 
+## ejemplo
+[![Instagram](https://img.shields.io/badge/Instagram-@mouredev-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/mouredev)
 
 ## Escribime
-This is [an example](http://google.com) inline link.
 
-[!
-  [Discord](https://img.shields.io/discord/729672926432985098?style=social&label=Discord&logo=discord)
-](https://mouredev.com/discord)
 
-[!
-  [Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-  ](https://www.linkedin.com/in/nicolas-rolon/)
-  
-[![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-  ](nico9934@gmail.com)
-  
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](http://google.com)
+[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=%2B541166809127&text=%C2%A1Hola%21+Soy+Nico+Rolon.+Desarrollador+FullStack.+%C2%A1Dejame+un+mensaje+y+cuando+me+libero+te+contesto%21)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](nico9934@gmail.com)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-rolon/)
