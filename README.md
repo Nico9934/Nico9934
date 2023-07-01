@@ -1,3 +1,5 @@
+![PortfolioPortada](/PortadaGithub.png)
+
 - 👋 Hi, I’m Nico Rolon, a passionate programming student. Musician and technology lover, I am currently looking for my first job in the IT world.
 - 👀 I’m interested in music & programming.
 - 🌱 I’m currently learning React, JS, CSS, SASS, Tailwind & more Skills.
