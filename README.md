@@ -46,6 +46,7 @@ Quiero seguir aprendiendo y perfeccionandome.💎
 
 
 ## Escribime
+This is [an example](http://google.com) inline link.
 
 ![https://www.linkedin.com/in/nicolas-rolon/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 ![nico9934@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
