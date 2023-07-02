@@ -23,7 +23,7 @@ Quiero seguir aprendiendo y perfeccionandome.💎
 
 [![Encriptador](https://raw.githubusercontent.com/Nico9934/encriptadorAlura/master/src/assets/Encriptador.png)](https://github.com/Nico9934/encriptadorAlura )
 
-[![Ecommerce](https://raw.githubusercontent.com/Nico9934/weatherApp/main/Weather%20App.png)](https://github.com/Nico9934/ecommerce-bienfrio)
+[![Ecommerce](https://raw.githubusercontent.com/Nico9934/ecommerce-bienfrio/master/src/Ecommerce.png)](https://github.com/Nico9934/ecommerce-bienfrio)
 
 [![Calculadora|540](https://raw.githubusercontent.com/Nico9934/CalculadoraConsola/master/CalculadoraConsola/Calculadora.png)](https://github.com/Nico9934/CalculadoraConsola)
 
