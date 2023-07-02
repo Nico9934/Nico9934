@@ -21,12 +21,13 @@ Quiero seguir aprendiendo y perfeccionandome.💎
 
 ## Algunos de mis proyectos ⌨️⌨️
 
-[![Encriptador](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](nico9934@gmail.com)
-[![Ecommerce](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](nico9934@gmail.com)
+[![Encriptador](https://raw.githubusercontent.com/Nico9934/encriptadorAlura/master/src/assets/Encriptador.png)](https://github.com/Nico9934/encriptadorAlura)
+
+[![Ecommerce](https://raw.githubusercontent.com/Nico9934/weatherApp/main/Weather%20App.png)](https://github.com/Nico9934/ecommerce-bienfrio)
 
 [![Calculadora](https://raw.githubusercontent.com/Nico9934/CalculadoraConsola/master/CalculadoraConsola/Calculadora.png)](https://github.com/Nico9934/CalculadoraConsola)
 
-[![WeatherApp](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](nico9934@gmail.com)
+[![WeatherApp](https://raw.githubusercontent.com/Nico9934/weatherApp/main/Weather%20App.png)](https://github.com/Nico9934/weatherApp)
 
 
 ## HardSkills
