@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Nico9934/Nico9934/main/PortadaGithub.png" width="750" />
+  <img src="https://raw.githubusercontent.com/Nico9934/Nico9934/main/PortadaGithub.png" width="1000" />
 </div> 
 <br>
  <h1 align="center">🏃‍ ¡Hola Mundo! <br> Soy Nico Rolón 🏃‍</h1>
