@@ -1,6 +1,8 @@
-
-
-# Hola Mundo! Soy Nico Rolón 🏃‍♀
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Nico9934/Nico9934/main/PortadaGithub.png" width="750" />
+</div> 
+<br>
+ <h1 align="center">🏃‍ ¡Hola Mundo! <br> Soy Nico Rolón 🏃‍</h1>
 <br>
 
 Estudiante apasionado de la programación. 
@@ -14,10 +16,12 @@ Quiero seguir aprendiendo y perfeccionandome.💎
 🏃🏃🏃
 
 
-##### Estoy seguro que si formo parte de tu empresa, voy a sumar valor, tanto humano como profesional. 🦹‍♂️
-<br><br> 
+<p> <em><b> Estoy seguro que si formo parte de tu empresa, voy a sumar valor, tanto humano como profesional.</b> </em> </p>
+ 
+
+<br>
   <h2 align="center">⌨️ Algunos de mis proyectos ⌨️</h2>
-<br><br>
+<br>
 
 <div width="800" align="center"> 
     <a href="https://github.com/Nico9934/encriptadorAlura "> 
