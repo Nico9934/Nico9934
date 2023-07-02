@@ -1,10 +1,9 @@
-![PortfolioPortada](/PortadaGithub.png)
+
 
 # Hola Mundo! Soy Nico Rolón 🏃‍♀
-
+<br>
 
 Estudiante apasionado de la programación. 
-
 
 Me encuentro en constante aprendizaje de manera autodidacta y tomando cursos tanto en plataformas como de manera presencial.
 
@@ -12,20 +11,31 @@ Me encuentro en constante aprendizaje de manera autodidacta y tomando cursos tan
 Me encanta programar, y desde que escribí algunas lineas de código supe que quiero hacer esto el resto de mi vida. 
 Quiero seguir aprendiendo y perfeccionandome.💎
 
-
-
 🏃🏃🏃
 
 
 ##### Estoy seguro que si formo parte de tu empresa, voy a sumar valor, tanto humano como profesional. 🦹‍♂️
+<br><br> 
+  <h2 align="center">⌨️ Algunos de mis proyectos ⌨️</h2>
+<br><br>
 
-## Algunos de mis proyectos ⌨️⌨️
-
-[![Encriptador](https://raw.githubusercontent.com/Nico9934/encriptadorAlura/master/src/assets/Encriptador.png)](https://github.com/Nico9934/encriptadorAlura )
-[![Ecommerce](https://raw.githubusercontent.com/Nico9934/ecommerce-bienfrio/master/src/Ecommerce.png)](https://github.com/Nico9934/ecommerce-bienfrio)
-[![Calculadora|540](https://raw.githubusercontent.com/Nico9934/CalculadoraConsola/master/CalculadoraConsola/Calculadora.png)](https://github.com/Nico9934/CalculadoraConsola)
-[![WeatherApp](https://raw.githubusercontent.com/Nico9934/weatherApp/main/fotoApp.png)](https://github.com/Nico9934/weatherApp)
-[![Bingo](https://raw.githubusercontent.com/Nico9934/BingoConsolaDosJugadores/master/bingoDosJugadores/Bingo.png)](https://github.com/Nico9934/BingoConsolaDosJugadores/blob/master/bingoDosJugadores/Bingo.png)
+<div width="800" align="center"> 
+    <a href="https://github.com/Nico9934/encriptadorAlura "> 
+        <img src="https://raw.githubusercontent.com/Nico9934/encriptadorAlura/master/src/assets/Encriptador.png" width="350" />
+    </a>
+    <a href="https://github.com/Nico9934/ecommerce-bienfrio"> 
+        <img src="https://raw.githubusercontent.com/Nico9934/ecommerce-bienfrio/master/src/Ecommerce.png" width="350" />
+    </a>
+    <a href="https://github.com/Nico9934/CalculadoraConsola"> 
+        <img src="https://raw.githubusercontent.com/Nico9934/CalculadoraConsola/master/CalculadoraConsola/Calculadora.png" width="350" />
+    </a>
+    <a href="https://github.com/Nico9934/weatherApp"> 
+        <img src="https://raw.githubusercontent.com/Nico9934/weatherApp/main/fotoApp.png" width="350" />
+    </a>
+    <a href="https://github.com/Nico9934/BingoConsolaDosJugadores"> 
+        <img src="https://raw.githubusercontent.com/Nico9934/BingoConsolaDosJugadores/master/bingoDosJugadores/Bingo.png" width="350" />
+    </a>
+</div>
 
 
 ## HardSkills
