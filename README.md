@@ -1,6 +1,6 @@
 ![PortfolioPortada](/PortadaGithub.png)
 
-# ¡Hola Mundo! Soy Nico Rolon 🏃‍♀️🏃‍♀️
+# Hola Mundo! Soy Nico Rolón 🏃‍♀
 
 
 Estudiante apasionado de la programación. 
