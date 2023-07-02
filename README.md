@@ -21,11 +21,11 @@ Quiero seguir aprendiendo y perfeccionandome.💎
 
 ## Algunos de mis proyectos ⌨️⌨️
 
-[![Encriptador](https://raw.githubusercontent.com/Nico9934/encriptadorAlura/master/src/assets/Encriptador.png)](https://github.com/Nico9934/encriptadorAlura)
+[![Encriptador](https://raw.githubusercontent.com/Nico9934/encriptadorAlura/master/src/assets/Encriptador.png)](https://github.com/Nico9934/encriptadorAlura )
 
 [![Ecommerce](https://raw.githubusercontent.com/Nico9934/weatherApp/main/Weather%20App.png)](https://github.com/Nico9934/ecommerce-bienfrio)
 
-[![Calculadora](https://raw.githubusercontent.com/Nico9934/CalculadoraConsola/master/CalculadoraConsola/Calculadora.png)](https://github.com/Nico9934/CalculadoraConsola)
+[![Calculadora|540](https://raw.githubusercontent.com/Nico9934/CalculadoraConsola/master/CalculadoraConsola/Calculadora.png)](https://github.com/Nico9934/CalculadoraConsola)
 
 [![WeatherApp](https://raw.githubusercontent.com/Nico9934/weatherApp/main/Weather%20App.png)](https://github.com/Nico9934/weatherApp)
 
