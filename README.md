@@ -17,7 +17,7 @@ Quiero seguir aprendiendo y perfeccionandome.💎
 🏃🏃🏃
 
 
-#### Estoy seguro que si formo parte de tu empresa, voy a sumar valor humano como profesional. 🦹‍♂️
+##### Estoy seguro que si formo parte de tu empresa, voy a sumar valor, tanto humano como profesional. 🦹‍♂️
 
 ## Algunos de mis proyectos ⌨️⌨️
 
