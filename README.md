@@ -27,7 +27,7 @@ Quiero seguir aprendiendo y perfeccionandome.💎
 
 [![Calculadora|540](https://raw.githubusercontent.com/Nico9934/CalculadoraConsola/master/CalculadoraConsola/Calculadora.png)](https://github.com/Nico9934/CalculadoraConsola)
 
-[![WeatherApp](https://raw.githubusercontent.com/Nico9934/weatherApp/main/Weather%20App.png)](https://github.com/Nico9934/weatherApp)
+[![WeatherApp](https://raw.githubusercontent.com/Nico9934/weatherApp/main/fotoApp.png)](https://github.com/Nico9934/weatherApp)
 
 
 ## HardSkills
