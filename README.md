@@ -24,9 +24,7 @@ Quiero seguir aprendiendo y perfeccionandome.💎
 <br>
 
 <div width="800" align="center"> 
- 
-  
-    <a href="https://github.com/Nico9934/encriptadorAlura "> 
+     <a href="https://github.com/Nico9934/encriptadorAlura "> 
         <img src="https://raw.githubusercontent.com/Nico9934/encriptadorAlura/master/src/assets/Encriptador.png" width="350" />
     </a>
     <a href="https://github.com/Nico9934/ecommerce-bienfrio"> 
