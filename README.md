@@ -24,6 +24,12 @@ Quiero seguir aprendiendo y perfeccionandome.💎
 <br>
 
 <div width="800" align="center"> 
+
+
+ <a href="[CrudNextjs](https://github.com/Nico9934/nextjscrud)"> 
+        <img src="[https://github.com/Nico9934/visitsvet/blob/master/src/img/Portada.png](https://github.com/Nico9934/nextjscrud/blob/master/public/github-screen-portada.png)" width="350" />
+    </a>
+  
      <a href="https://github.com/Nico9934/visitsvet"> 
         <img src="https://github.com/Nico9934/visitsvet/blob/master/src/img/Portada.png" width="350" />
     </a>
