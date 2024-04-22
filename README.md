@@ -9,7 +9,7 @@ Estudiante apasionado de la programación.
 
 Me encuentro en constante aprendizaje de manera autodidacta y tomando cursos tanto en plataformas como de manera presencial.
 
-💎 Este año, comencé la carrera de Analisis y desarrollo de sistemas y aplicaciones. 
+💎 Actualmente, curso el segundo año de la carrera de Analisis, desarrollo y programación de aplicaciones. 
 Me encanta programar, y desde que escribí algunas lineas de código supe que quiero hacer esto el resto de mi vida. 
 Quiero seguir aprendiendo y perfeccionandome.💎
 
