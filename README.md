@@ -25,6 +25,10 @@ Quiero seguir aprendiendo y perfeccionandome.💎
 
 <div width="800" align="center"> 
 
+  <a href="https://github.com/Nico9934/memo-tst">
+    <img src="https://github.com/Nico9934/memo-tst/blob/master/src/assets/portada.png" width="350"
+  </a>
+
   <a href="https://github.com/Nico9934/products_api">
     <img src="https://github.com/Nico9934/products_api/blob/master/public/portada.png" width="350"
   </a>
