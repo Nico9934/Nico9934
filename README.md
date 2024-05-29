@@ -60,10 +60,10 @@ Quiero seguir aprendiendo y perfeccionandome.💎
         <img src="https://raw.githubusercontent.com/Nico9934/CalculadoraConsola/master/CalculadoraConsola/Calculadora.png" width="280" />
     </a>
     <a href="https://github.com/Nico9934/weatherApp"> 
-        <img src="https://raw.githubusercontent.com/Nico9934/weatherApp/main/fotoApp.png" width="350" />
+        <img src="https://raw.githubusercontent.com/Nico9934/weatherApp/main/fotoApp.png" width="280" />
     </a>
     <a href="https://github.com/Nico9934/BingoConsolaDosJugadores"> 
-        <img src="https://raw.githubusercontent.com/Nico9934/BingoConsolaDosJugadores/master/bingoDosJugadores/Bingo.png" width="350" />
+        <img src="https://raw.githubusercontent.com/Nico9934/BingoConsolaDosJugadores/master/bingoDosJugadores/Bingo.png" width="280" />
     </a>
 </div>
 
