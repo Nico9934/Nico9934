@@ -26,44 +26,44 @@ Quiero seguir aprendiendo y perfeccionandome.💎
 <div width="800" align="center"> 
 
   <a href="https://github.com/Nico9934/memo-tst">
-    <img src="https://github.com/Nico9934/memo-tst/blob/master/src/assets/portada.png" width="280"
+    <img src="https://github.com/Nico9934/memo-tst/blob/master/src/assets/portada.png" width="250"
   </a>
 
   <a href="https://github.com/Nico9934/products_api">
-    <img src="https://github.com/Nico9934/products_api/blob/master/public/portada.png" width="280"
+    <img src="https://github.com/Nico9934/products_api/blob/master/public/portada.png" width="250"
   </a>
   <a href="https://github.com/Nico9934/userApi_flask/tree/master">
-     <img src="https://github.com/Nico9934/userApi_flask/blob/master/src/Portadas%20Proyectos%20GitHub.png" width="280" />
+     <img src="https://github.com/Nico9934/userApi_flask/blob/master/src/Portadas%20Proyectos%20GitHub.png" width="250" />
   </a>
 
    <a href="https://github.com/Nico9934/nextjs-clients"> 
-        <img src="https://github.com/Nico9934/nextjs-clients/blob/master/public/portadaGithub.png" width="280" />
+        <img src="https://github.com/Nico9934/nextjs-clients/blob/master/public/portadaGithub.png" width="250"/>
     </a>
 
   <a href="https://github.com/Nico9934/nextjscrud"> 
-        <img src="https://github.com/Nico9934/nextjscrud/blob/master/public/github-screen-portada.png" width="280" />
+        <img src="https://github.com/Nico9934/nextjscrud/blob/master/public/github-screen-portada.png" width="250" />
     </a>
   
   <a href="https://github.com/Nico9934/visitsvet"> 
-        <img src="https://github.com/Nico9934/visitsvet/blob/master/src/img/Portada.png" width="280" />
+        <img src="https://github.com/Nico9934/visitsvet/blob/master/src/img/Portada.png" width="250" />
     </a>
   <a href="https://github.com/Nico9934/criptoprices"> 
-        <img src="https://raw.githubusercontent.com/Nico9934/criptoprices/master/src/img/Portada.png" width="280" />
+        <img src="https://raw.githubusercontent.com/Nico9934/criptoprices/master/src/img/Portada.png" width="250"/>
     </a>
     <a href="https://github.com/Nico9934/encriptadorAlura "> 
-        <img src="https://raw.githubusercontent.com/Nico9934/encriptadorAlura/master/src/assets/Encriptador.png" width="280" />
+        <img src="https://raw.githubusercontent.com/Nico9934/encriptadorAlura/master/src/assets/Encriptador.png" width="250" />
     </a>
     <a href="https://github.com/Nico9934/ecommerce-bienfrio"> 
-        <img src="https://raw.githubusercontent.com/Nico9934/ecommerce-bienfrio/master/src/Ecommerce.png" width="280" />
+        <img src="https://raw.githubusercontent.com/Nico9934/ecommerce-bienfrio/master/src/Ecommerce.png" width="250" />
     </a>
     <a href="https://github.com/Nico9934/CalculadoraConsola"> 
-        <img src="https://raw.githubusercontent.com/Nico9934/CalculadoraConsola/master/CalculadoraConsola/Calculadora.png" width="280" />
+        <img src="https://raw.githubusercontent.com/Nico9934/CalculadoraConsola/master/CalculadoraConsola/Calculadora.png" width="250" />
     </a>
     <a href="https://github.com/Nico9934/weatherApp"> 
-        <img src="https://raw.githubusercontent.com/Nico9934/weatherApp/main/fotoApp.png" width="280" />
+        <img src="https://raw.githubusercontent.com/Nico9934/weatherApp/main/fotoApp.png" width="250" />
     </a>
     <a href="https://github.com/Nico9934/BingoConsolaDosJugadores"> 
-        <img src="https://raw.githubusercontent.com/Nico9934/BingoConsolaDosJugadores/master/bingoDosJugadores/Bingo.png" width="280" />
+        <img src="https://raw.githubusercontent.com/Nico9934/BingoConsolaDosJugadores/master/bingoDosJugadores/Bingo.png" width="250" />
     </a>
 </div>
 
