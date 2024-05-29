@@ -25,6 +25,14 @@ Quiero seguir aprendiendo y perfeccionandome.💎
 
 <div width="800" align="center"> 
 
+
+   <a href="https://github.com/Nico9934/cinema_app">
+    <img src="https://github.com/Nico9934/cinema_app/blob/master/cinema_app/banners/portada.png" width="250"
+  </a>
+   <a href="https://github.com/Nico9934/Phrases_project">
+    <img src="https://github.com/Nico9934/Phrases_project/blob/master/Phrases_project/portada.png" width="250"
+  </a>
+     
   <a href="https://github.com/Nico9934/memo-tst">
     <img src="https://github.com/Nico9934/memo-tst/blob/master/src/assets/portada.png" width="250"
   </a>
